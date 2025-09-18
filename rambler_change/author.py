@@ -1,0 +1,2 @@
+GITHUB_LINK = ""
+TG_LINK = ""
